@@ -1,4 +1,8 @@
-### Hi there 👋
+### Trying out some BTC charts, generated with plotly 👋
+
+[Kraken BTC/USD](../blob/master/btC_usd.html)
+[Kraken BTC/EUR](../blob/master/btC_eur.html)
+
 
 <!--
 **bitlgeuse/bitlgeuse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
