@@ -1,6 +1,7 @@
 ### Trying out some BTC charts, generated with plotly 👋
 
 [Kraken BTC/USD](/btc_usd.html)
+
 [Kraken BTC/EUR](/btc_eur.html)
 
 
